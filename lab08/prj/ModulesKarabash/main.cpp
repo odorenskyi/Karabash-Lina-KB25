@@ -84,7 +84,7 @@ void bonus_znuzhka (double summa)
     {
         bonus=0;
     }
-    znuzhka=double(bonus*0.25);
+    znuzhka=bonus*0.25;
     result = summa - znuzhka;
     cout<<"Кількість бонусів: "<<bonus<<endl;
     cout<<"Сума з урахуванням знижки: "<<result<<endl;

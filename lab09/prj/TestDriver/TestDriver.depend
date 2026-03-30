@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1774906611 source:c:\users\user\git\karabash-lina-kb25\lab09\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	"ModulesKarabash.h"
+	<Windows.h>
+	<iomanip>
+
