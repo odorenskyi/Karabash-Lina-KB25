@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1775245230 source:c:\users\user\git\karabash-lina-kb25\lab08\prj\moduleskarabash\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<bitset>
+	<sstream>
+	<cstring>
+
