@@ -1,8 +1,8 @@
 #ifndef STRUCT_TYPE_PROJECT_1_H_INCLUDED
 #define STRUCT_TYPE_PROJECT_1_H_INCLUDED
-#include <iostrem>
-
-using namespace std:
+#include <iostream>
+#include <string>
+using namespace std;
 
 struct Reestr
     {
@@ -14,6 +14,7 @@ struct Reestr
         string data;
         string nomer;
         string prumitku;
+        Reestr* next;
     };
 
 
